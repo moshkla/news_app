@@ -1,17 +1,13 @@
 # news_app
 
 A new Flutter application.
-![Screenshot_2021-12-02-15-12-52-188_com example news_app]()
+
+
 
 ## Getting Started
 <img src="https://user-images.githubusercontent.com/25544294/144429828-502c0a10-94ff-4a2e-9d2f-a434f52c7ee5.jpg" width="300">
-<img src="https://user-images.githubusercontent.com/25544294/131975229-70fa0eb3-7801-41b2-9ded-3b2379173f17.jpg" width="300">
-<img src="https://user-images.githubusercontent.com/25544294/131975229-70fa0eb3-7801-41b2-9ded-3b2379173f17.jpg" width="300">
-<img src="https://user-images.githubusercontent.com/25544294/131975310-12c82608-d6cb-4b5c-b978-8c6bb7ad71d7.jpg" width="300">
-<img src="https://user-images.githubusercontent.com/25544294/131975360-708a9d33-55a5-4096-a295-8503ed9a2b7e.jpg" width="300">
-<img src="https://user-images.githubusercontent.com/25544294/131975426-e8ad23d1-c57c-4bb7-8225-945717d88fb9.jpg" width="300">
-<img src="https://user-images.githubusercontent.com/25544294/131976480-d19b2700-7fab-4508-95c7-182236fd534c.jpg" width="300">
-<img src="https://user-images.githubusercontent.com/25544294/131976137-96459c6f-fc58-42a3-928e-495eb5cc6ed5.jpg" width="300">
+<img src="https://user-images.githubusercontent.com/25544294/144430070-212b72ff-b41a-4e57-b128-8923654cc7c9.jpg" width="300">
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
